@@ -1,0 +1,12 @@
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\bin\Debug\net8.0\SOA_Models.deps.json
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\bin\Debug\net8.0\SOA_Models.dll
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\bin\Debug\net8.0\SOA_Models.pdb
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\SOA_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\SOA_Models.AssemblyInfoInputs.cache
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\SOA_Models.AssemblyInfo.cs
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\SOA_Models.csproj.CoreCompileInputs.cache
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\SOA_Models.sourcelink.json
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\SOA_Models.dll
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\refint\SOA_Models.dll
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\SOA_Models.pdb
+C:\Users\david\RiderProjects\Gestor_Colas_P2\SOA_Models\obj\Debug\net8.0\ref\SOA_Models.dll

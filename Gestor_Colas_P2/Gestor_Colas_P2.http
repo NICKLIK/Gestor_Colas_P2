@@ -1,0 +1,6 @@
+@Gestor_Colas_P2_HostAddress = http://localhost:5147
+
+GET {{Gestor_Colas_P2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
